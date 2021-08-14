@@ -1,5 +1,5 @@
-# Desafios curso Java
-Resolução de alguns desafios do curso de Java :grinning:
+# Desafios curso Java :computer:
+Resolução de alguns desafios do curso de Java 
 
-## Links úteis
+## Links úteis :grinning:
 [URI Online Judge](https://www.urionlinejudge.com.br/)
